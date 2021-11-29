@@ -12,7 +12,8 @@ De Zelftest App zit momenteel in de designfase, en er is behoefte aan een campag
 
 ## Doel van deze opdracht
 
-Je leert hoe je op basis van een bestaande huisstijl een actie site kan ontwerpen en maken.
+Je leert hoe je het navigatie systeem van een website kan herontwerpen en maken.
+
 
 ## Planning
 
