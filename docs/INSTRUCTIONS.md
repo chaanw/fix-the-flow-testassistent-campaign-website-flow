@@ -3,7 +3,7 @@
 Verbeter de flow van de campagne website voor de Zelftest App
 
 ## Context
-Deze leertaak hoort bij sprint The Campaign. Dit is een autonomous leertaak die je individueel uitvoert voor de Zelftest App.
+Deze leertaak hoort bij sprint Fix the Flow. Dit is een autonomous leertaak die je individueel uitvoert voor de Zelftest App.
 
 ## Briefing
 Het Zelftest App project is een samenwerking tussen Streeklab Haarlem en verschillende instanties binnen de HvA (Smart Asset Management Lab, HBO-ICT, CMD en FDND).
@@ -13,7 +13,6 @@ De Zelftest App zit momenteel in de designfase, en er is behoefte aan een campag
 ## Doel van deze opdracht
 
 Je leert hoe je het navigatie systeem van een website kan herontwerpen en maken.
-
 
 ## Planning
 
