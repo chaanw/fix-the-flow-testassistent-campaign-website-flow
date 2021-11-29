@@ -23,13 +23,13 @@ Je leert hoe je het navigatie systeem van een website kan herontwerpen en maken.
     </tr>
     <tr>
         <td>Maandag</td>
-        <td>15 November</td>
+        <td>6 December</td>
         <td>13:00 uur *</td>
         <td>Briefing</td>
     </tr>
     <tr>
         <td>Dinsdag</td>
-        <td>16 November</td>
+        <td>7 December</td>
         <td>13:00 uur *</td>
         <td>Debriefing</td>
     </tr>
@@ -38,7 +38,7 @@ Je leert hoe je het navigatie systeem van een website kan herontwerpen en maken.
     </tr>
     <tr>
         <td>Dinsdag, woensdag of donderdag</td>
-        <td>23 November</td>
+        <td>14 December</td>
         <td>13:00 uur *</td>
         <td>Feedbacksessie</td>
     </tr>
@@ -47,7 +47,7 @@ Je leert hoe je het navigatie systeem van een website kan herontwerpen en maken.
     </tr>
     <tr>
         <td>Donderdag</td>
-        <td>2 December</td>
+        <td>23 December</td>
         <td>13:00 uur *</td>
         <td>Oplevering</td>
     </tr>
