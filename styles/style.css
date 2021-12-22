@@ -67,9 +67,9 @@ body {
 }
 
 ul {
-  padding: 0;
-  margin: 0;
-  list-style: none;
+    padding: 0;
+    margin: 0;
+    list-style: none;
 }
 
 header {
@@ -112,21 +112,21 @@ main {
     font-size: 20px;
     text-decoration: none;
     padding: 0 15px;
-  }
+}
 
-  .link:hover, .link:focus {
+.link:hover, .link:focus {
     background-color: #1E64E7;
     color: #fff;
     padding: 38px 15px;
-  }
+}
 
 .switch {
     position: relative;
     display: inline-block;
     margin: 0 5px 0 15px;
-  }
+}
   
-  .switch > span {
+.switch > span {
     position: absolute;
     top: 14px;
     pointer-events: none;
@@ -137,63 +137,63 @@ main {
     text-shadow: 0 1px 0 rgba(0, 0, 0, .06);
     width: 50%;
     text-align: center;
-  }
+}
   
-  input.check-toggle-round-flat:checked ~ .off {
+input.check-toggle-round-flat:checked ~ .off {
     color: #fff;
-  }
+}
   
-  input.check-toggle-round-flat:checked ~ .on {
+input.check-toggle-round-flat:checked ~ .on {
     color: #2E3A59;
-  }
+}
   
-  .switch > span.on {
+.switch > span.on {
     left: 0;
     padding-left: 2px;
     color: #fff;
-  }
+}
   
-  .switch > span.off {
+.switch > span.off {
     right: 0;
     padding-right: 4px;
     color: #2E3A59;
-  }
+}
   
-  .check-toggle {
+.check-toggle {
     position: absolute;
     visibility: hidden;
-  }
+}
   
-  .check-toggle + label {
+.check-toggle + label {
     display: block;
     cursor: pointer;
     user-select: none;
-  }
+}
   
-  input.check-toggle-round-flat + label {
+input.check-toggle-round-flat + label {
     padding: 2px;
     width: 97px;
     height: 34px;
     background-color: #A5C5FE;
     border-radius: 60px;
-  }
+}
   
-  input.check-toggle-round-flat + label:before, input.check-toggle-round-flat + label:after {
+input.check-toggle-round-flat + label:before, input.check-toggle-round-flat + label:after {
     display: block;
     position: absolute;
     content: "";
-  }
+}
   
-  input.check-toggle-round-flat + label:before {
+input.check-toggle-round-flat + label:before {
     top: 2px;
     left: 2px;
     bottom: 2px;
     right: 2px;
     background-color: #D2E2FF;
     border-radius: 60px;
-  }
+}
   
-  input.check-toggle-round-flat + label:after {
+input.check-toggle-round-flat + label:after {
     top: 4px;
     left: 4px;
     bottom: 4px;
@@ -201,17 +201,17 @@ main {
     background-color: #1E64E7;   
     border-radius: 52px;  
     transition: 0.2s;
-  }
+}
   
-  input.check-toggle-round-flat:checked + label:after {
+input.check-toggle-round-flat:checked + label:after {
     margin-left: 44px;
-  }
+}
 
- .functions {
-     margin-top: 30px;
- }
+.functions {
+    margin-top: 30px;
+}
 
-  ul.functions-container {
+ul.functions-container {
     display: grid;
     grid-template-columns: repeat(12, 1fr);
     grid-column-gap: 20px;
@@ -219,39 +219,39 @@ main {
     margin: auto;
     list-style-type: none;
     padding: 0;
-  }
+}
 
-  ul.functions-container p{
+ul.functions-container p{
     font-size: 1.25rem;
-  }
+}
 
-  li.privacy, li.easy,  li.results{
+li.privacy, li.easy,  li.results{
     background-color: #EFF3FA;
     border-radius: 16px;
     text-align: center;
     padding-bottom: 20px;
     margin: 30px 0 50px 0;
-  }
+}
 
-  li.easy{
-      grid-column: 1 / 5;
-  }
+li.easy{
+    grid-column: 1 / 5;
+}
 
-  li.privacy {
-      grid-column: 5 / 9;
-  }
+li.privacy {
+    grid-column: 5 / 9;
+}
 
-  li.results {
-      grid-column: 9 / 13;
-  }
+li.results {
+    grid-column: 9 / 13;
+}
   
-  li img {
+li img {
     height: 90px;
     margin-bottom: 10px;
     margin-top: 50px;
-  }
+}
 
-  .circle {
+.circle {
     border-radius: 50%;
     width: 40px;
     height: 40px;
@@ -263,31 +263,50 @@ main {
     position: relative;
     bottom: 30px;
     box-shadow:0px 3px 3px rgba(0, 0, 0, 0.25);
-  }
+}
 
-  .instructions {
+.instructions {
     background-image: linear-gradient(#fff 60%, #EFF3FA 40%);
-  }
+}
   
-  .instruction-1, .instruction-2, .instruction-3 {
-      width: 387px;
-      margin-top: 20px;
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      justify-content: space-evenly;
-  }
+.instruction-1, .instruction-2, .instruction-3 {
+    width: 387px;
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+}
 
-  .instructions-container {
-      width: 1200px;
-      margin: auto;
-      display: flex;
-      flex-direction: row;
-      align-items: center;
-      justify-content: space-between;
-  }
+.instructions-container {
+    width: 1200px;
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
 
-  .instructions-container p {
-      font-size: 1.25rem;
-      padding-bottom: 30px;
-  }
+.instructions-container p {
+    font-size: 1.25rem;
+    padding-bottom: 30px;
+}
+
+.hoewerkthet{
+    display: grid;
+    grid-template-columns: repeat(12, 1fr);
+    grid-column-gap: 20px;
+    width: 1200px;
+    margin: auto;
+    list-style-type: none;
+    padding: 0;
+}
+
+.hoewerkthet h1, .hoewerkthet p {
+    grid-column: 1 / 7;
+    text-align: left;
+}
+
+.hoewerkthet iframe {
+    grid-column: 8 / 13;
+}
